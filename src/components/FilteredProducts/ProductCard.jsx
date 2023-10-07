@@ -5,7 +5,6 @@ import {
     CardBody,
     CardFooter,
     Typography,
-    Button,
 } from "@material-tailwind/react";
 import { useDispatch } from 'react-redux';
 import { singleProduct } from '../../features/slices/productSlice'

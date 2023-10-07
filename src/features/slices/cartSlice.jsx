@@ -1,5 +1,4 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { defaults } from "autoprefixer";
 
 export const cartSlice = createSlice({
     name: 'cart',

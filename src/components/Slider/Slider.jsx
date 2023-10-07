@@ -1,6 +1,6 @@
 import React from 'react'
 import { nextSlide, prevSlide, dotSlide } from '../../features/slices/sliderSlice'
-import { UseSelector, useDispatch, useSelector } from 'react-redux'
+import { useDispatch, useSelector } from 'react-redux'
 import { sliderData } from "../../assets/data/dummyData"
 
 function Slider() {

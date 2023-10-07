@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../../assets/images/logo.png'
 import Cart from '../Cart/Cart'
 import { useSelector, useDispatch } from 'react-redux';
-import { Avatar, Tooltip, Button } from "@material-tailwind/react";
+import { Avatar, Tooltip } from "@material-tailwind/react";
 import {logout} from "../../features/slices/authSlice"
 
 function Navbar() {

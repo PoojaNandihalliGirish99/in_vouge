@@ -7,7 +7,6 @@ import {
     CardBody,
     CardFooter,
     Typography,
-    Checkbox,
   } from "@material-tailwind/react";
 import {login} from "../../features/slices/authSlice"
 import { useDispatch } from 'react-redux';
